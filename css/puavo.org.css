@@ -1,0 +1,9 @@
+.masthead h1 {
+  background: -webkit-linear-gradient(rgba(255,255,255,1.0),rgba(255,255,255,0.5));
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+
+.puavo_text_shadow {
+  text-shadow: 2px 2px 2px #000000, -2px -2px 2px #000000, 2px -2px 2px #000000, -2px 2px 2px #000000;
+}
